@@ -1,0 +1,15 @@
+body{
+  background-image: url("https://image.freepik.com/free-vector/music-background_53876-90526.jpg");
+  background-size: cover;
+  font-family: 'Cookie', cursive;
+}
+h1{
+font-size: 70px;
+color: #D09903;
+text-align: center;
+left-padding: 100px:
+}
+img{
+width: 50px;
+height: 40px;
+}
