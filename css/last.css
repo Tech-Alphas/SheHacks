@@ -1,0 +1,17 @@
+body{
+   background:url("https://cdn.hipwallpaper.com/i/29/93/vBLPR8.jpg");
+   background-size:cover;
+   padding-left:100px;
+   padding-top:400px;
+   font-family: 'Ravi Prakash', cursive;
+}
+h1{
+   font-size:60px;
+}
+input{
+   border: 4px solid black;
+   border-radius: 10px;
+   width: 350px;
+   height: 80px;
+   background-color: #b19cd9;
+}
