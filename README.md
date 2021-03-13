@@ -17,7 +17,7 @@ Team name : **TechAlphas**
 * [Project Status](#project-status)
 ## Name
 Mood
-Revamper = Changer
+Revamper = Mood Changer
 ## Our Idea
 The idea of our project is to input mood(in text format) from user that he/she wishes to switch to and recommending him/her some music, Netflix series, books and activity     based on the chosen mood.User can also check their mood after following the recommendations.
 [Watch the video](https://youtu.be/5cxBPRNVqq8)
