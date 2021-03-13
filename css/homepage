@@ -13,3 +13,8 @@ img{
 width: 50px;
 height: 40px;
 }
+input{
+background-color: #D09903;
+font-weight: bold;
+width: 20%;
+}
