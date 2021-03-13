@@ -1,0 +1,23 @@
+mood=input()
+if(mood=="Neutral"):
+    print("https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM?si=178b7b3946df4d0c")
+    print("https://open.spotify.com/playlist/37i9dQZF1DXd8cOUiye1o2?si=c3edffb115f140a0")
+elif(mood=="Sad"):
+    print("https://open.spotify.com/playlist/37i9dQZF1DWWEJlAGA9gs0?si=93a9c7e15f6e402a")
+    print("https://open.spotify.com/playlist/37i9dQZF1DX3LrQBSMX6aK?si=4aa9dff51b3b4b38")
+    print("https://open.spotify.com/playlist/37i9dQZF1DWVApiVwKelT7?si=a2f1870cff1044a7")
+    print("https://open.spotify.com/playlist/37i9dQZF1DWYcDQ1hSjOpY?si=e72e7f14ab93405b")
+elif(mood=="Happy"):
+    print("https://open.spotify.com/playlist/37i9dQZF1DX14CbVHtvHRB?si=483fb4b2c61f45fd")
+    print("https://open.spotify.com/playlist/37i9dQZF1DX11HM36ncRBG?si=7592c6a3b94c4a22")
+    print("https://open.spotify.com/playlist/37i9dQZF1DXaXB8fQg7xif?si=f355d8aa4ae24c20")
+    print("https://open.spotify.com/playlist/37i9dQZF1DX0Yxoavh5qJV?si=962a4c4b812e4009")
+    print("https://open.spotify.com/playlist/37i9dQZF1DX0Uv9tZ47pWo?si=de3ccba5b36f4e4b")
+elif(mood=="Surprise"):
+    print("https://open.spotify.com/playlist/37i9dQZF1DXbSaMQIHweTw?si=94cd40d61d3f46ba")
+    print("https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX?si=8fdb83b1184b4317")
+    print("https://open.spotify.com/playlist/37i9dQZF1DX14fiWYoe7Oh?si=69627ef4f517483d")
+else:
+    print("https://open.spotify.com/playlist/37i9dQZF1DX4H5837Y8I1n?si=ff280d25c17b45be")
+    print("https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U?si=809e4a4066444ec5")
+    print("https://open.spotify.com/playlist/37i9dQZF1DX1kznM9KyewU?si=67629c822fa34ab8")
