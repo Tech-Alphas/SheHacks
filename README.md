@@ -8,8 +8,8 @@ Team name : **TechAlphas**
 # Mood Revamper
 ## Table of contents
 * [Name](#name)
-* [Uses of project](#about)
 * [The Idea](#our-idea-in-figma)
+* [Uses of project](#about)
 * [Technologies](#technologies)
   * [Languages](#languages)
   * [Environment](#environment)
