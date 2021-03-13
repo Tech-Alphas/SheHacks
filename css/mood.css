@@ -12,3 +12,19 @@ position: right;
 width: 500px;
 height: 500px;
 }
+input, select {
+  
+  color: #333;
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 0 auto;
+  padding: 1.5rem 2rem;
+  border-radius: 0.2rem;
+  background-color:light-blue ;
+  border: none;
+  width: 30%;
+  display: block;
+  border-bottom: 0.3rem solid transparent;
+  transition: all 0.3s;
+}
+
